@@ -1,0 +1,9 @@
+{
+  "name": "Summon a chonker",
+  "version": "1.0",
+  "description": "Will give you a kawaii chonkster",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "app/index.html"
+  }
+}
